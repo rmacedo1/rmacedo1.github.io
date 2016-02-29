@@ -1,8 +1,8 @@
 
 <?php 
-	header('Access-Control-Allow-Origin: *');
+	/*header('Access-Control-Allow-Origin: *');
 	header('Access-Control-Allow-Methods-Methods: GET, POST, OPTIONS');
-	header("Access-Control-Allow-Headers: X-Requested-With"); 
+	header("Access-Control-Allow-Headers: X-Requested-With"); */
 	
 	//Modified from John Wright's code at http://johnwright.me/code-examples/sparql-query-in-code-rest-php-and-json-tutorial.php
 	function getURLDBPedia () {
